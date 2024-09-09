@@ -1,0 +1,7 @@
+C:\Users\Sahrul\source\repos\Aplikasi Konversi Suhu\Aplikasi Konversi Suhu\bin\Debug\Aplikasi Konversi Suhu.exe.config
+C:\Users\Sahrul\source\repos\Aplikasi Konversi Suhu\Aplikasi Konversi Suhu\bin\Debug\Aplikasi Konversi Suhu.exe
+C:\Users\Sahrul\source\repos\Aplikasi Konversi Suhu\Aplikasi Konversi Suhu\bin\Debug\Aplikasi Konversi Suhu.pdb
+C:\Users\Sahrul\source\repos\Aplikasi Konversi Suhu\Aplikasi Konversi Suhu\obj\Debug\Aplikasi Konversi Suhu.csproj.AssemblyReference.cache
+C:\Users\Sahrul\source\repos\Aplikasi Konversi Suhu\Aplikasi Konversi Suhu\obj\Debug\Aplikasi Konversi Suhu.csproj.CoreCompileInputs.cache
+C:\Users\Sahrul\source\repos\Aplikasi Konversi Suhu\Aplikasi Konversi Suhu\obj\Debug\Aplikasi Konversi Suhu.exe
+C:\Users\Sahrul\source\repos\Aplikasi Konversi Suhu\Aplikasi Konversi Suhu\obj\Debug\Aplikasi Konversi Suhu.pdb
